@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm John</h1>
+<h1 align="center">Hi 👋, I'm John Xander</h1>
 <h3 align="center">A PERN-Stack Dev in training from England</h3>
 
 <h3 align="left">Current Stack:</h3>
