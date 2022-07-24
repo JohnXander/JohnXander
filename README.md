@@ -7,6 +7,8 @@
 <h3 align="left">Current Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnxander&show_icons=true&locale=en" alt="johnxander" /></p>
 
+<h3 align="left">About Me:</h3>
+
 - 🔭 I’m currently working on [jx-problems](https://github.com/JohnXander/jx-problems)
 
 - 🌱 I’m currently learning **React**
