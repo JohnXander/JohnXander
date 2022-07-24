@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [jx-problems](https://github.com/JohnXander/jx-problems)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, Node**
 
 - ⚡ Fun fact **I can speak Spanish and a little bit of Russian**
 
