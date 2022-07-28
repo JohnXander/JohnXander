@@ -6,7 +6,7 @@
 
 <h3 align="left">About Me:</h3>
 
-- 🔭 I’m currently working on [jx-problems](https://github.com/JohnXander/jx-problems)
+- 🔭 I’m currently working on [Scratch Match](https://github.com/JohnXander/scratch-match)
 
 - 🌱 I’m currently learning **React and Node**
 
