@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on [Scratch Match](https://github.com/JohnXander/scratch-match)
 
-- 🌱 I’m currently learning **React and Node**
+- 🌱 I’m currently learning **Express and Node**
 
 - ⚡ Fun fact **I can speak Spanish and a little bit of Russian**
 
