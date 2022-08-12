@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on [MERN Blog App](https://github.com/JohnXander/blog-app)
 
-- 🌱 I’m currently learning **PostgreSQL, Express and Node**
+- 🌱 I’m currently learning **PostgreSQL, MongoDB, Express and Node**
 
 - ⚡ Fun fact **I can speak Spanish and a little bit of Russian**
 
