@@ -20,7 +20,7 @@
 
 <h3 align="left">About Me:</h3>
 
-- 🔭 I’m currently working on [Scratch Match](https://github.com/JohnXander/scratch-match)
+- 🔭 I’m currently working on [MERN Blog App](https://github.com/JohnXander/blog-app)
 
 - 🌱 I’m currently learning **PostgreSQL, Express and Node**
 
