@@ -23,7 +23,7 @@
 
 <h3 align="left">About Me:</h3>
 
-- 🔭 I’m currently working on [MERN Blog App](https://github.com/JohnXander/blog-app)
+- 🔭 I’m currently working on [Tailwind Project](https://github.com/JohnXander/tailwind-project)
 
 - 🌱 I’m currently learning **PostgreSQL, MongoDB, Express and Node**
 
