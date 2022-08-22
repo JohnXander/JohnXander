@@ -5,7 +5,8 @@
 <p align="left"> 
 <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/atlas/database" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="express" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="express" width="40" height="40"/> </a> 
@@ -23,9 +24,9 @@
 
 <h3 align="left">About Me:</h3>
 
-- 🔭 I’m currently working on [Tailwind Project](https://github.com/JohnXander/tailwind-project)
+- 🔭 I’m currently working on [Beginner Typescript](https://github.com/JohnXander/beginner-typescript)
 
-- 🌱 I’m currently learning **PostgreSQL, MongoDB, Express and Node**
+- 🌱 I’m currently learning **Postgres, Tailwind & Typescript**
 
 - ⚡ Fun fact **I can speak Spanish and a little bit of Russian**
 
