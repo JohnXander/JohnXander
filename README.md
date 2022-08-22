@@ -28,6 +28,6 @@
 
 - 🌱 I’m currently learning **Postgres, Tailwind & Typescript**
 
-- ⚡ Fun fact **I can speak Spanish and a little bit of Russian**
+- ⚡ Fun fact **I can speak Spanish and Russian**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnxander&show_icons=true&locale=en" alt="johnxander" /></p>
