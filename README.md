@@ -31,6 +31,6 @@
 
 - 🌱 I’m currently learning **Prisma**
 
-- ⚡ Fun fact **I can speak Spanish and Russian**
+- ⚡ Fun fact: **I can speak Spanish and Russian**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnxander&show_icons=true&locale=en" alt="johnxander" /></p>
