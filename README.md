@@ -27,9 +27,9 @@
 
 <h3 align="left">About Me:</h3>
 
-- 🔭 I’m currently working on [Beginner Typescript](https://github.com/JohnXander/beginner-typescript)
+- 🔍 Looking for a position as a **Junior Developer**
 
-- 🌱 I’m currently learning **Postgres, Tailwind & Typescript**
+- 🌱 I’m currently learning **Prisma**
 
 - ⚡ Fun fact **I can speak Spanish and Russian**
 
