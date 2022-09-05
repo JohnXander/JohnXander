@@ -29,7 +29,7 @@
 
 - 🔍 Looking for a position as a **Junior Developer**
 
-- 🌱 I’m currently learning **Prisma**
+- 🌱 I’m currently learning **Backend Technologies**
 
 - ⚡ Fun fact: **I can speak Spanish and Russian**
 
