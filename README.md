@@ -30,8 +30,6 @@
 
 - 🔍 Looking for a position as a **Junior Developer**
 
-- 🌱 I’m currently learning **Backend Technologies**
-
 - ⚡ Fun fact: **I can speak Spanish and Russian**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnxander&show_icons=true&locale=en" alt="johnxander" /></p>
