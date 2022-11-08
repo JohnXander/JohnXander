@@ -25,8 +25,12 @@
 
 🔍 Looking for a position as a Junior Developer. <br>
 🌱 Recent graduate of a six-month, full-time course in software development. <br>
-🎓 My background is in teaching but I reskilled as a programmer. <br>
+🎓 My background is in TEFL but I reskilled as a programmer. <br>
 ⚡ Fun fact: I can speak Spanish and Russian. <br>
-💻 Portfolio website: https://deft-kangaroo-c1db2b.netlify.app/
+
+💻 Portfolio: https://deft-kangaroo-c1db2b.netlify.app/ <br>
+🥷 Codewars: https://www.codewars.com/users/JohnXander <br>
+💼 LinkedIn: https://www.linkedin.com/in/john-bloxam-210207250/ <br>
+📧 Email: johnbloxam5@gmail.com <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnxander&show_icons=true&locale=en" alt="johnxander" /></p>
