@@ -28,9 +28,9 @@
 🎓 My background is in TEFL but I reskilled as a programmer. <br>
 ⚡ Fun fact: I can speak Spanish and Russian. <br>
 
-💻 Portfolio: https://deft-kangaroo-c1db2b.netlify.app/ <br>
+💻 Portfolio: https://johnbloxam.netlify.app <br>
 🥷 Codewars: https://www.codewars.com/users/JohnXander <br>
-💼 LinkedIn: https://www.linkedin.com/in/john-bloxam-210207250/ <br>
+💼 LinkedIn: https://www.linkedin.com/in/john-bloxam-210207250 <br>
 📧 Email: johnbloxam5@gmail.com <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnxander&show_icons=true&locale=en" alt="johnxander" /></p>
