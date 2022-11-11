@@ -31,6 +31,5 @@
 💻 Portfolio: https://johnbloxam.netlify.app <br>
 🥷 Codewars: https://www.codewars.com/users/JohnXander <br>
 💼 LinkedIn: https://www.linkedin.com/in/john-bloxam-210207250 <br>
-📧 Email: johnbloxam5@gmail.com <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnxander&show_icons=true&locale=en" alt="johnxander" /></p>
