@@ -28,7 +28,7 @@
 💼 LinkedIn: https://www.linkedin.com/in/john-bloxam-210207250 <br>
 
 🔍 #OpenToWork <br>
-🌱 Recently a software engineering trainee at [Boolean UK]([https://github.com/boolean-uk/js-problems](https://github.com/boolean-uk)) <br>
+🌱 Recently a software engineering trainee at [Boolean UK](https://github.com/boolean-uk) <br>
 🔭 Currently exploring the power of the t3-stack <br>
 🎓 My background is in TEFL but I reskilled as a programmer <br>
 ⚡ Fun fact: I can speak Spanish and Russian <br>
