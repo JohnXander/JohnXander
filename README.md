@@ -33,4 +33,4 @@
 🎓 My background is in TEFL but I reskilled as a programmer <br>
 ⚡ Fun fact: I can speak Spanish and Russian <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnxander&show_icons=true&locale=en" alt="johnxander" /></p>
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnXander&show_icons=true&theme=radical&count_private=true&hide=stars)
