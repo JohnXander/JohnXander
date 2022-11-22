@@ -1,5 +1,5 @@
 <h1 align=>Hi 👋, I'm John</h1>
-<h3 align=>Full-Stack Developer</h3>
+<h3 align=>Passionate Full-Stack Developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -23,13 +23,14 @@
 
 <h3 align="left">About Me:</h3>
 
-🔍 Looking for a position as a Junior Developer. <br>
-🌱 Recent graduate of a six-month, full-time course in software development. <br>
-🔭 Currently exploring the power of the t3-stack <br>
 💻 Portfolio: https://johnbloxam.netlify.app <br>
 🥷 Codewars: https://www.codewars.com/users/JohnXander <br>
 💼 LinkedIn: https://www.linkedin.com/in/john-bloxam-210207250 <br>
-🎓 My background is in TEFL but I reskilled as a programmer. <br>
-⚡ Fun fact: I can speak Spanish and Russian. <br>
+
+🔍 #OpenToWork <br>
+🌱 Recently a software engineering trainee <br>
+🔭 Currently exploring the power of the t3-stack <br>
+🎓 My background is in TEFL but I reskilled as a programmer <br>
+⚡ Fun fact: I can speak Spanish and Russian <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnxander&show_icons=true&locale=en" alt="johnxander" /></p>
