@@ -1,5 +1,5 @@
 <h1 align=>Hi 👋, I'm John</h1>
-<h3 align=>Passionate Full-Stack Developer</h3>
+<h2 align=>Passionate Full-Stack Developer</h2>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
