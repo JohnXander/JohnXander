@@ -29,7 +29,7 @@
 
 🔍 #OpenToWork <br>
 🌱 Recently a software engineering trainee at [Boolean UK](https://github.com/boolean-uk) <br>
-🔭 Currently exploring the power of the t3-stack <br>
+🔭 Currently exploring the power of the T3-Stack <br>
 🎓 My background is in TEFL but I reskilled as a programmer <br>
 ⚡ Fun fact: I can speak Spanish and Russian <br>
 
