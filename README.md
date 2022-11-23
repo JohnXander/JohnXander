@@ -12,8 +12,8 @@
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs" width="40" height="40"/> </a> 
 <a href="https://trpc.io/" target="_blank" rel="noreferrer"> <img src="https://trpc.io/img/logo.svg" alt="trpc" width="40" height="40"/> </a> 
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://www.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" alt="prisma" width="40" height="40"/> </a> 
-<a href="https://insomnia.rest" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="40" height="40"/> </a> 
 <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png" alt="sql" width="40" height="40"/> </a> 
+<a href="https://insomnia.rest" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="40" height="40"/> </a> 
 <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://mui.com/static/logo.png" alt="material ui" width="40" height="40"/> </a> 
@@ -31,7 +31,7 @@
 💼 LinkedIn: https://www.linkedin.com/in/john-bloxam-210207250 <br>
 
 🔍 #OpenToWork <br>
-🌱 Recently a software engineering trainee at [Boolean UK](https://github.com/boolean-uk) <br>
+🌱 Recently a full-stack software engineering trainee at [Boolean UK](https://github.com/boolean-uk) <br>
 🔭 Currently exploring the power of the T3-Stack <br>
 🎓 My background is in TEFL but I reskilled as a programmer <br>
 ⚡ Fun fact: I can speak Spanish and Russian <br>
