@@ -1,28 +1,20 @@
 <h1 align=>Hi 👋, I'm John</h1>
 <h2 align=>Passionate Full-Stack Developer</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgres" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="express" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="node" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs" width="40" height="40"/> </a> 
-<a href="https://trpc.io/" target="_blank" rel="noreferrer"> <img src="https://trpc.io/img/logo.svg" alt="trpc" width="40" height="40"/> </a> 
-<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://www.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" alt="prisma" width="40" height="40"/> </a> 
-<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png" alt="sql" width="40" height="40"/> </a> 
-<a href="https://insomnia.rest" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="40" height="40"/> </a> 
-<a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://mui.com/static/logo.png" alt="material ui" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/netlify-3628945-3030170.png" alt="netlify" width="40" height="40"/> </a> 
-<a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" alt="vercel" width="40" height="40"/> </a> 
-<a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-</p>
+<h3 align="left">My Stack:</h3>
+
+<img align="left" src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img align="left" src="https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=2d79c7"/>
+<img align="left" src="https://img.shields.io/badge/react js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61dbfb"/>
+<img align="left" src="https://img.shields.io/badge/next js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/tailwind-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=35b3eb"/>
+<img align="left" src="https://img.shields.io/badge/prisma-%2320232a?style=for-the-badge&logo=Prisma&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/postgres-%2320232a.svg?style=for-the-badge&logo=postgresql&logoColor=30628a"/>
+<img align="left" src="https://img.shields.io/badge/trpc-%2320232a.svg?style=for-the-badge&logo=trpc&logoColor=398ccb"/>
+<img align="left" src="https://img.shields.io/badge/express js-%2320232a.svg?style=for-the-badge&logo=express&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/node js-%2320232a.svg?style=for-the-badge&logo=node.js&logoColor=6DA55F"/>
+<img align="left" src="https://img.shields.io/badge/vercel-%2320232a.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/-jasmine-%2320232a.svg?style=for-the-badge&logo=jasmine&logoColor=%238A4182"/>
 
 <h3 align="left">About Me:</h3>
 
