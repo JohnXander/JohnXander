@@ -1,7 +1,7 @@
 <h1 align=>Hi 👋, I'm John</h1>
 <h2 align=>Passionate Full-Stack Developer</h2>
 
-<h3 align="left">My Stack:</h3>
+<h3 align="left">Skills:</h3>
 
 <img align="left" src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img align="left" src="https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=2d79c7"/>
