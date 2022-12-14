@@ -13,6 +13,8 @@
 <img align="left" src="https://img.shields.io/badge/vercel-%2320232a.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/-jasmine-%2320232a.svg?style=for-the-badge&logo=jasmine&logoColor=%238A4182"/>
 
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnXander&show_icons=true&theme=radical&count_private=true&hide=stars)
+
 <h3 align="left">About Me:</h3>
 
 💻 Portfolio: https://johnbloxam.netlify.app <br>
@@ -24,5 +26,3 @@
 🔭 Currently exploring the power of the T3-Stack <br>
 🎓 My background is in TEFL but I reskilled as a programmer <br>
 ⚡ Fun fact: I can speak Spanish and Russian <br>
-
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnXander&show_icons=true&theme=radical&count_private=true&hide=stars)
