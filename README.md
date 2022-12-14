@@ -25,5 +25,7 @@
 🎓 My background is in TEFL but I reskilled as a programmer <br>
 ⚡ Fun fact: I can speak Spanish and Russian <br>
 
-![JohnXander's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=johnxander&show_icons=true&theme=radical&count_private=true&hide=stars)
-![JohnXander's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnxander&show_icons=true&theme=radical&count_private=true&hide=stars)
+<div style="display: flex;">
+<img style="width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnxander&show_icons=true&theme=radical&count_private=true&hide=stars" /> 
+<img style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=johnxander&show_icons=true&theme=radical&count_private=true&hide=stars" /> 
+</div>
