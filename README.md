@@ -19,7 +19,6 @@
 🥷 Codewars: https://www.codewars.com/users/JohnXander <br>
 💼 LinkedIn: https://www.linkedin.com/in/john-bloxam-210207250 <br>
 
-🔍 #OpenToWork <br>
 🌱 Recently a full-stack software engineering trainee at [Boolean UK](https://github.com/boolean-uk) <br>
 🔭 Currently exploring the power of the T3-Stack <br>
 🎓 My background is in TEFL but I reskilled as a programmer <br>
