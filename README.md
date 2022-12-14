@@ -26,6 +26,6 @@
 ⚡ Fun fact: I can speak Spanish and Russian <br>
 
 <div style="display: flex;">
-<img style="width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnxander&show_icons=true&theme=radical&count_private=true&hide=stars" /> 
-<img style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=johnxander&show_icons=true&theme=radical&count_private=true&hide=stars" /> 
+<img style="width: 72%;" src="https://github-readme-stats.vercel.app/api?username=johnxander&show_icons=true&theme=radical&count_private=true&hide=stars" /> 
+<img style="width: 26%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnxander&show_icons=true&theme=radical&count_private=true&hide=stars" /> 
 </div>
